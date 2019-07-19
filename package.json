@@ -1,0 +1,25 @@
+{
+  "name": "prisma-setup",
+  "version": "1.0.0",
+  "description": "Prisma setup with demo database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iykekings/prisma-setup.git"
+  },
+  "keywords": [
+    "Prisma",
+    "Typescript",
+    "database",
+    "graphql"
+  ],
+  "author": "Ikechukwu Eze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iykekings/prisma-setup/issues"
+  },
+  "homepage": "https://github.com/iykekings/prisma-setup#readme"
+}
